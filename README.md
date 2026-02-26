@@ -1,4 +1,4 @@
-Bond_Price_Excel_Modeling_Lucky-Noah-Ramdoyal
+Bond Price Excel Modelisation_Lucky Noah Ramdoyal.xslm
 Ce repository contient un modèle de modélisation financière robuste développé sur Excel permettant d'évaluer le prix théorique d'obligations classiques et d'analyser leur sensibilité aux variations de taux. 
 ### 📊 Interactive Bond Pricing Model
 Click the link below to view the Excel model directly in your browser:
